@@ -1,2 +1,1 @@
-# Welcome-and-Mi
-ndset
+# Welcome-and-Mindset
