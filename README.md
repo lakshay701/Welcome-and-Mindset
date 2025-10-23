@@ -1,1 +1,2 @@
-# Welcome-and-MIndset
+# Welcome-and-Mi
+ndset
